@@ -3,3 +3,5 @@ This is a sample file.This repository mostly contains about python
 Python
 Tkinter
 HTML/css basics
+Django
+Git
