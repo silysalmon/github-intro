@@ -5,7 +5,8 @@ win.title("GUI")
 win.geometry("400x400")
 
 def click():
-    pass
+    fra=tkinter.Frame(win,bg="teal",width=100,height=100)
+    fra.grid(row=0,column=1)
 men=tkinter.Menu(win)
 file_men=tkinter.Menu(men,tearoff=0)
 men.add_cascade(label="File",menu=file_men)
