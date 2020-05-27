@@ -5,3 +5,5 @@ Tkinter
 HTML/css basics
 Django
 Git
+linux
+networking
