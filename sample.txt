@@ -7,3 +7,6 @@ Django
 Git
 linux
 networking
+apple 
+banana
+cherry
