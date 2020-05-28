@@ -1,4 +1,5 @@
 import tkinter
+from tkinter import ttk
 from PIL import Image,ImageTk
 win = tkinter.Tk()
 win.title("GUI")
